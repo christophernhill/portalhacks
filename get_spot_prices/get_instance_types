@@ -1,0 +1,1 @@
+aws pricing get-attribute-values --service-code AmazonEC2  --attribute-name instanceType | grep Value
