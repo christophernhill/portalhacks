@@ -1,0 +1,12 @@
+[
+  {
+    "Type": "TERM_MATCH",
+    "Field": "ServiceCode",
+    "Value": "AmazonEC2"
+  },
+  {
+    "Type": "TERM_MATCH",
+    "Field": "instanceType",
+    "Value": "p3.2xlarge"
+  }
+]
